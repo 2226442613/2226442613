@@ -1,12 +1,12 @@
 ![Lucas Tsui — Code, circuits, curiosity](assets/banner.svg)
 
-I build small systems to understand bigger ideas. My projects connect **embedded code, electronics, and simulation**—from FPGA timing logic to camera-guided robotics.
+I build small systems to understand bigger ideas. My projects connect **embedded code, electronics, and simulation**—from FPGA timing logic to analog sensor processing.
 
 ### On the workbench
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/2226442613/nathacks-2026-project"><img src="assets/robotics.svg" width="100%" alt="BioGuard: camera-guided cleaning robot prototype. Python, OpenCV, ESP32." /></a></td>
+<td width="50%"><a href="https://github.com/2226442613/Embedded-Temperature-Monitor-Project"><img src="assets/robotics.svg" width="100%" alt="Temperature Monitor: analog sensing and threshold control in C." /></a></td>
 <td width="50%"><a href="https://github.com/2226442613/FPGA-Reaction-Timer-Game"><img src="assets/logic.svg" width="100%" alt="FPGA Reaction Timer: state machines and timing in VHDL." /></a></td>
 </tr>
 <tr>
@@ -15,13 +15,13 @@ I build small systems to understand bigger ideas. My projects connect **embedded
 </tr>
 </table>
 
-More experiments: [**MorsePulse**](https://github.com/2226442613/MorsePulse) · [**ARM Assembly Mini Toolkit**](https://github.com/2226442613/ARM-Assembly-Mini-Toolkit) · [**Temperature Monitor**](https://github.com/2226442613/Embedded-Temperature-Monitor-Project)
+More experiments: [**MorsePulse**](https://github.com/2226442613/MorsePulse) · [**ARM Assembly Mini Toolkit**](https://github.com/2226442613/ARM-Assembly-Mini-Toolkit)
 
 ### My toolkit
 
 **Languages** &nbsp; C · C++ · Python · VHDL · ARM Assembly  
 **Hardware & control** &nbsp; ESP32 · Arduino · FPGA · Sensor interfaces  
-**Vision & software** &nbsp; OpenCV · Flask · Git · GitHub
+**Development & simulation** &nbsp; Git · GitHub · Circuit analysis · Optical modeling
 
 ### From an idea to something that works
 
@@ -38,7 +38,7 @@ The questions behind the projects matter as much as the code:
 
 | Question | Where I explore it |
 | :--- | :--- |
-| How can a robot know where it is? | Camera calibration, ArUco tracking, and feedback in **BioGuard** |
+| How does a sensor reading become a control decision? | ADC conversion, temperature calculation, and threshold logic in **Temperature Monitor** |
 | How do you make timing predictable? | Finite-state machines and millisecond timing in the **FPGA Reaction Timer** |
 | How does a circuit respond to change? | Frequency and step responses in the **RLC Circuit Analyzer** |
 | What connects camera settings to an image? | Exposure and field of view in **LensLab** |
