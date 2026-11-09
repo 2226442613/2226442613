@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="236" viewBox="0 0 960 236" role="img" aria-label="Engineering notebook: observe, model, build, verify">
+<rect width="960" height="236" rx="16" fill="#101e27"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="30" y="34" fill="#72ddc3" font-size="12" letter-spacing="3">THE ENGINEERING NOTEBOOK</text>
+<path d="M64 91H896" stroke="#324a55" stroke-width="2"/>
+<g fill="#101e27" stroke="#72ddc3" stroke-width="2"><circle cx="64" cy="91" r="16"/><circle cx="294" cy="91" r="16"/><circle cx="524" cy="91" r="16"/><circle cx="754" cy="91" r="16"/></g>
+<g fill="#72ddc3" font-size="12" text-anchor="middle"><text x="64" y="95">01</text><text x="294" y="95">02</text><text x="524" y="95">03</text><text x="754" y="95">04</text></g>
+<g fill="#f1f4ed" font-size="25" font-weight="700"><text x="40" y="144">Observe</text><text x="270" y="144">Model</text><text x="500" y="144">Build</text><text x="730" y="144">Verify</text></g>
+<g fill="#bfced2" font-size="14"><text x="40" y="174">Read the signals.</text><text x="270" y="174">Make assumptions visible.</text><text x="500" y="174">Connect code to hardware.</text><text x="730" y="174">Compare with reality.</text></g>
+<g fill="#d7ae7c" font-size="12"><text x="40" y="207">SENSORS + DATA</text><text x="270" y="207">MATH + SIMULATION</text><text x="500" y="207">FIRMWARE + INTERFACES</text><text x="730" y="207">TESTS + MEASUREMENTS</text></g>
+</g></svg>
