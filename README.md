@@ -43,22 +43,6 @@ The questions behind the projects matter as much as the code:
 | How does a circuit respond to change? | Frequency and step responses in the **RLC Circuit Analyzer** |
 | What connects camera settings to an image? | Exposure and field of view in **LensLab** |
 
-### In focus · BioGuard
-
-<a href="https://github.com/2226442613/nathacks-2026-project">
-  <img src="https://raw.githubusercontent.com/2226442613/nathacks-2026-project/main/assets/bioguard-prototype.jpg" width="520" alt="BioGuard cleaning robot prototype built for natHacks 2026" />
-</a>
-
-**A camera-guided cleaning robot prototype for natHacks 2026.**
-
-A fixed camera feeds a Python vision pipeline. The computer tracks the robot and plans movements; an ESP32 handles movement commands and cleaning presets. A Flask dashboard brings the camera view and task progress together.
-
-**The interesting part:** connecting perception, coordinates, communication, and physical motion in one system.
-
-This is a prototype with simulation and selected physical tests; a complete physical cleaning workflow has not yet been verified.
-
-[Read the project story →](https://github.com/2226442613/nathacks-2026-project#system-architecture) &nbsp; [Explore the vision code →](https://github.com/2226442613/nathacks-2026-project/tree/main/vision)
-
 ### Pick a starting point
 
 <table>
